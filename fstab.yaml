@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:8084/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "http://localhost:8084/bin/franklin.delivery/praveenv2018/ued-tutorial/main"
     type: "markup"
     suffix: ".html"
